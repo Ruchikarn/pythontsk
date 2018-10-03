@@ -2,7 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7914bd0b-bd8b-4143-ab84-653682db6fe4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a_class_on_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a_class_on_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a_class_on_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/again_point_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appending_in_old_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/break_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cropped_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw_on_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw_on_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_file_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fruitful_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import_with_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infinite_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more_on_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/only_males.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_another_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator_overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os_pillow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reduce_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_name_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/revision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stars_workout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/std_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_and_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_and_list_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuple_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuple_on_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_crawling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,66 +77,59 @@
     <SUITE FILE_PATH="coverage/ruchi$constructor_example.coverage" NAME="constructor_example Coverage Results" MODIFIED="1537878208795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ruchi$class_rectangle_example.coverage" NAME="class_rectangle_example Coverage Results" MODIFIED="1537876807291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ruchi$examples_on_oop.coverage" NAME="examples_on_oop Coverage Results" MODIFIED="1537962334590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ruchi$web_crawling.coverage" NAME="web_crawling Coverage Results" MODIFIED="1538218634930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ruchi$oop_1stclass.coverage" NAME="oop_1stclass Coverage Results" MODIFIED="1537789492990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-245397507">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="182" />
-          <entry key="py" value="6956" />
+          <entry key="md" value="187" />
+          <entry key="py" value="7636" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="182" />
-          <entry key="Python" value="6956" />
+          <entry key="Markdown" value="187" />
+          <entry key="Python" value="7636" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="5" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="5" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/constructor_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <marker date="1537878208763" expanded="true" signature="597:740" ph="..." />
-                <marker date="1537878208763" expanded="true" signature="627:632" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples_on_oop.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding>
                 <marker date="1537962334559" expanded="true" signature="29:95" ph="..." />
                 <marker date="1537962334559" expanded="true" signature="119:124" ph="..." />
@@ -90,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+            <state relative-caret-position="303">
+              <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
               <folding>
                 <marker date="1537964706907" expanded="true" signature="70:136" ph="..." />
               </folding>
@@ -100,10 +154,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/while_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples_inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="-7">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <marker date="1538048996652" expanded="true" signature="25:30" ph="..." />
                 <marker date="1538048996652" expanded="true" signature="789:794" ph="..." />
@@ -113,16 +176,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <first_editor>
+                <caret column="2" selection-start-column="2" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_crawling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trial.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -147,6 +226,8 @@
         <option value="$PROJECT_DIR$/inheritance.py" />
         <option value="$PROJECT_DIR$/examples_inheritance.py" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/web_crawling.py" />
+        <option value="$PROJECT_DIR$/trial.py" />
       </list>
     </option>
   </component>
@@ -168,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,14 +256,25 @@
               <item name="ruchi" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruchi" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ruchi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruchi" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ladm\PycharmProjects\ruchi" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,29 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.examples_inheritance">
-    <configuration name="class_rectangle_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ruchi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_rectangle_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.web_crawling">
     <configuration name="constructor_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ruchi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,20 +377,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="web_crawling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ruchi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_crawling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.class_rectangle_example" />
       <item itemvalue="Python.constructor_example" />
       <item itemvalue="Python.examples_on_oop" />
       <item itemvalue="Python.inheritance" />
       <item itemvalue="Python.examples_inheritance" />
+      <item itemvalue="Python.web_crawling" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.web_crawling" />
         <item itemvalue="Python.examples_inheritance" />
         <item itemvalue="Python.inheritance" />
         <item itemvalue="Python.examples_on_oop" />
         <item itemvalue="Python.constructor_example" />
-        <item itemvalue="Python.class_rectangle_example" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +432,7 @@
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26127526" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2822706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -355,7 +446,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4972973" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -398,9 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" selection-start-line="3" selection-end-line="20" />
-          <folding>
-            <marker date="1537790019777" expanded="true" signature="262:677" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,15 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2108">
           <caret line="124" selection-start-line="124" selection-end-line="124" />
-          <folding>
-            <marker date="1537876807260" expanded="true" signature="88:89" ph="..." />
-            <marker date="1537876807260" expanded="true" signature="156:157" ph="..." />
-            <marker date="1537876807260" expanded="true" signature="681:686" ph="..." />
-            <marker date="1537876807260" expanded="true" signature="1220:1525" ph="..." />
-            <marker date="1537876807260" expanded="true" signature="1544:1549" ph="..." />
-            <marker date="1537876807260" expanded="true" signature="1635:1644" ph="..." />
-            <marker date="1537876807260" expanded="true" signature="2068:2073" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -424,41 +503,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_crawling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <marker date="1537878208763" expanded="true" signature="597:740" ph="..." />
-            <marker date="1537878208763" expanded="true" signature="627:632" ph="..." />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples_on_oop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-          <folding>
-            <marker date="1537962334559" expanded="true" signature="29:95" ph="..." />
-            <marker date="1537962334559" expanded="true" signature="119:124" ph="..." />
-            <marker date="1537962334559" expanded="true" signature="457:966" ph="..." />
-            <marker date="1537962334559" expanded="true" signature="668:797" ph="..." />
-            <marker date="1537962334559" expanded="true" signature="1178:1187" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/trial.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+        <state relative-caret-position="303">
+          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
           <folding>
             <marker date="1537964706907" expanded="true" signature="70:136" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/while_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examples_inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="-7">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <marker date="1538048996652" expanded="true" signature="25:30" ph="..." />
             <marker date="1538048996652" expanded="true" signature="789:794" ph="..." />
@@ -467,13 +557,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/examples_on_oop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <folding>
+            <marker date="1537962334559" expanded="true" signature="29:95" ph="..." />
+            <marker date="1537962334559" expanded="true" signature="119:124" ph="..." />
+            <marker date="1537962334559" expanded="true" signature="457:966" ph="..." />
+            <marker date="1537962334559" expanded="true" signature="668:797" ph="..." />
+            <marker date="1537962334559" expanded="true" signature="1178:1187" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
